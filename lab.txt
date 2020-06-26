@@ -1,0 +1,7 @@
+Lab1 - Install angular cli (globally/locally)
+	npm install @angular/cli@8.3.28 (local - current directory)
+	npm install -g  @angular/cli@8.3.28 (local - current directory)
+
+	Create a new directory (c:\xpan-ang)
+		ng new demo1
+	
