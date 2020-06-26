@@ -1,2 +1,3 @@
 # X-Angular
-https://forms.gle/Za5rc3e4L7T9GENaA
+Daily Feedback Link
+https://forms.gle/cpV9tDWtn687WrQLA
